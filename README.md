@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
 ---
@@ -47,7 +48,19 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/RSpec-8B0000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+
+---
+
+### 📐 Arquitectura de Software
+
+- **Microservicios**: Conocimiento en el diseño y desarrollo de sistemas distribuidos.
+- **Patrones de Diseño**: Familiaridad con patrones como MVC, Singleton, Factory, Observer, etc.
+- **CQRS (Command Query Responsibility Segregation)**: Uso de este patrón para separar las operaciones de lectura y escritura.
+- **Event Sourcing**: Implementación de este patrón en aplicaciones que necesitan almacenar cada cambio en el sistema.
 
 ---
 
